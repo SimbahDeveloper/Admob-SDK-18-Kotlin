@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Admob Tuttorial</string>
+
+    <string name="APP_ID_AD">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="APP_ID_AD_BANNER">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="APP_ID_AD_INTERST">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="APP_ID_AD_REWARD">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="APP_ID_AD_NATIVE">ca-app-pub-3940256099942544/2247696110</string>
+</resources>
